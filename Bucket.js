@@ -13,7 +13,7 @@ class Bucket {
 
     display(){
         rectMode(CENTER);
-        fill(255);
+        fill(187,46,56);
         rect(this.body.position.x, this.body.position.y, this.width, this.height);
 
     }

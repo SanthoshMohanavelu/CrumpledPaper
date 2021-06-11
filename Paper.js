@@ -13,7 +13,7 @@ class Paper {
         
         ellipseMode(RADIUS);
 
-        fill("yellow");
+        fill(9, 15, 200);
 
         circle(this.body.position.x, this.body.position.y, this.radius);
 
